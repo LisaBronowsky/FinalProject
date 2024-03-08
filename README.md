@@ -13,13 +13,6 @@ Dataset: The model was trained on a diverse dataset encompassing a wide variety 
 User Interface: A minimalistic and intuitive user interface complements the model, making it accessible on different devices, including smartphones and specialized devices.
 Key Features
 
-Follow these steps to get started:
-
-Clone the Repository: git clone https://github.com/your-username/FruitVista.git
-Install Dependencies: Navigate to the project directory and install the required dependencies using pip install -r requirements.txt.
-Run the Model: Execute the main script to run the FruitVista model. Customize the settings as needed.
-Contribution Guidelines
-
 Acknowledgments
 
 We extend our gratitude to the academic advisors, fellow students, and the open-source community for their support and valuable feedback throughout the development of FruitVista.
